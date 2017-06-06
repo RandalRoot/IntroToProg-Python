@@ -1,0 +1,77 @@
+Chai	18.0000	1.80000
+Chang	19.0000	1.90000
+Aniseed Syrup	10.0000	1.00000
+Chef Anton's Cajun Seasoning	22.0000	2.20000
+Chef Anton's Gumbo Mix	21.3500	2.13500
+Grandma's Boysenberry Spread	25.0000	2.50000
+Uncle Bob's Organic Dried Pears	30.0000	3.00000
+Northwoods Cranberry Sauce	40.0000	4.00000
+Mishi Kobe Niku	97.0000	9.70000
+Ikura	31.0000	3.10000
+Queso Cabrales	21.0000	2.10000
+Queso Manchego La Pastora	38.0000	3.80000
+Konbu	6.0000	.60000
+Tofu	23.2500	2.32500
+Genen Shouyu	15.5000	1.55000
+Pavlova	17.4500	1.74500
+Alice Mutton	39.0000	3.90000
+Carnarvon Tigers	62.5000	6.25000
+Teatime Chocolate Biscuits	9.2000	.92000
+Sir Rodney's Marmalade	81.0000	8.10000
+Sir Rodney's Scones	10.0000	1.00000
+Gustaf's KnÑckebrîd	21.0000	2.10000
+Tunnbrîd	9.0000	.90000
+Guaran† Fant†stica	4.5000	.45000
+NuNuCa Nu·-Nougat-Creme	14.0000	1.40000
+GumbÑr GummibÑrchen	31.2300	3.12300
+Schoggi Schokolade	43.9000	4.39000
+Rîssle Sauerkraut	45.6000	4.56000
+ThÅringer Rostbratwurst	123.7900	12.37900
+Nord-Ost Matjeshering	25.8900	2.58900
+Gorgonzola Telino	12.5000	1.25000
+Mascarpone Fabioli	32.0000	3.20000
+Geitost	2.5000	.25000
+Sasquatch Ale	14.0000	1.40000
+Steeleye Stout	18.0000	1.80000
+Inlagd Sill	19.0000	1.90000
+Gravad lax	26.0000	2.60000
+Cìte de Blaye	263.5000	26.35000
+Chartreuse verte	18.0000	1.80000
+Boston Crab Meat	18.4000	1.84000
+Jack's New England Clam Chowder	9.6500	.96500
+Singaporean Hokkien Fried Mee	14.0000	1.40000
+Ipoh Coffee	46.0000	4.60000
+Gula Malacca	19.4500	1.94500
+Rogede sild	9.5000	.95000
+Spegesild	12.0000	1.20000
+Zaanse koeken	9.5000	.95000
+Chocolade	12.7500	1.27500
+Maxilaku	20.0000	2.00000
+Valkoinen suklaa	16.2500	1.62500
+Manjimup Dried Apples	53.0000	5.30000
+Filo Mix	7.0000	.70000
+Perth Pasties	32.8000	3.28000
+Tourtiäre	7.4500	.74500
+PÉtÇ chinois	24.0000	2.40000
+Gnocchi di nonna Alice	38.0000	3.80000
+Ravioli Angelo	19.5000	1.95000
+Escargots de Bourgogne	13.2500	1.32500
+Raclette Courdavault	55.0000	5.50000
+Camembert Pierrot	34.0000	3.40000
+Sirop d'Çrable	28.5000	2.85000
+Tarte au sucre	49.3000	4.93000
+Vegie-spread	43.9000	4.39000
+Wimmers gute Semmelknîdel	33.2500	3.32500
+Louisiana Fiery Hot Pepper Sauce	21.0500	2.10500
+Louisiana Hot Spiced Okra	17.0000	1.70000
+Laughing Lumberjack Lager	14.0000	1.40000
+Scottish Longbreads	12.5000	1.25000
+Gudbrandsdalsost	36.0000	3.60000
+Outback Lager	15.0000	1.50000
+Flotemysost	21.5000	2.15000
+Mozzarella di Giovanni	34.8000	3.48000
+Rîd Kaviar	15.0000	1.50000
+Longlife Tofu	10.0000	1.00000
+RhînbrÑu Klosterbier	7.7500	.77500
+Lakkalikîîri	18.0000	1.80000
+Original Frankfurter grÅne So·e	13.0000	1.30000
